@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-family: 'Barlow', sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('https://source.unsplash.com/random/1920x1080');
+}
+
+.App p {
+  font-weight: 500;
+  font-style: italic;
+  color: #81895b;
+}
+
+.App button {
+  background-color: #3d6896;
+  border: none;
+  margin-top: 10px;
+  padding: 10px;
+  width: 400px;
+  color: white;
+  font-size: larger;
+  cursor: pointer;
+}
+
+.profileContainer {
+  width: 250px;
+  margin: 0 auto;
+}
+
+.profileContainer img {
+  width: 250px;
+  border-radius: 50%;
+}
